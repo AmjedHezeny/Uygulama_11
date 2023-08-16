@@ -30,7 +30,7 @@ namespace Program
                 Console.WriteLine("(2).kullanıcının isim ve soyisim girmesini sağlar, bu bilgileri kaydeder ve kaydedilen kişilerin listesini gösterir.");
                 Console.WriteLine("-------------------------------------------------------------------------------------------------------");
 
-                Console.WriteLine("(3).astgele üretilen bir dizi sayıyı görüntüler ve bu dizide 50'den küçük olanları ayırarak tekrar görüntüler.");
+                Console.WriteLine("(3).Rastgele üretilen bir dizi sayıyı görüntüler ve bu dizide 50'den küçük olanları ayırarak tekrar görüntüler.");
                 Console.WriteLine("-------------------------------------------------------------------------------------------------------");
 
                 Console.WriteLine("(4).kullanıcının istediği sayıda öğrenci bilgisi girmesine olanak sağlar. Her öğrenci için numara, isim ve telefon bilgilerini alır.");
